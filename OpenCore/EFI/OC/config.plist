@@ -858,7 +858,7 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>MLB</key>
-			<string>C02928700CDJG36UE</string>
+			<string>C02751108CDJG361F</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -868,9 +868,9 @@
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02Z20TFHX87</string>
+			<string>C02VV9ZCHX87</string>
 			<key>SystemUUID</key>
-			<string>3F31E559-0D12-40DA-A26D-3C9A158A5286</string>
+			<string>5ABDC43F-E486-481F-87E9-64FF02061A35</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
