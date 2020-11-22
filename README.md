@@ -24,4 +24,4 @@ macOS 11.0.1
 - WD BLACK SN750
 #### OpenCore TODO
 
-- [ ] fix usb, and remove USBInjectAll.kext
+- [ ] [USB fixes](https://dortania.github.io/OpenCore-Post-Install/usb/#macos-and-the-15-port-limit), and remove USBInjectAll.kext
